@@ -1,0 +1,770 @@
+primaryName	imdb_info	misc_info	gender
+Jamie D. Boscardin			0
+Jud Cremata	male		male
+Gayle Abrams		female	female
+J.J. Abrams	male		male
+Tracey Alexander			0
+Nan Allendorfer			0
+Sasha Alpert	female		female
+Scooter Alpert			0
+D. Alvelo	male		male
+Bernie Ancheta	male		male
+Kimberly Calhoun Boling	female		female
+Randy Anderson			0
+Chris Atwood			0
+Neema Barnette	female		female
+Tracy Barone	female		female
+Gail Barringer	female		female
+Kris Baucom	male		male
+Shaz Bennett	female		female
+Bonnie Benwick			0
+Nan Bernstein Freed			0
+Alysse Bezahler		female	female
+Lynn Kouf			0
+Stacey K. Black	female		female
+Terry Black		male	male
+Kit Boss	male		male
+Mychèle Boudrias			0
+Kimberly Boyd	female		female
+Sam Breckman			0
+G. Mac Brown	male		male
+W. Earl Brown	male		male
+Jo Burn	female		female
+Les Butler			0
+Fitch Cady		male	male
+Yule Caise	male		male
+Corey Campodonico	male		male
+Chris Case	male		male
+Chris Cheramie		male	male
+Brent-Karl Clackson	male		male
+Kyle A. Clark	male		male
+Maisha Closson			0
+P. Todd Coe	male		male
+Jaffe Cohen	male		male
+Hy Conrad		male	male
+J.B. Cook			0
+Mary Courtney			0
+Leslie Cowan	female		female
+Terry Crotzer			0
+Gabor Csupo	male		male
+Carol Cuddy		female	female
+Kim M. Cybulski			0
+DeMane Davis	female		female
+Duppy Demetrius			0
+Mychelle Deschamps		female	female
+D.V. DeVincentis	male		male
+Connie Dolphin	female		female
+Dody Dorn	female		female
+Carol Doyle			0
+Wileen Dragovan		female	female
+Avery C. Drewe		male	male
+Randy Dugan	male		male
+D. Scott Easton	male		male
+Mel Efros		male	male
+Taylor Elmore		male	male
+Lou Eyrich	female		female
+Ryan Farley	male		male
+Leslie D. Farrell	female		female
+Shawn Wilt		male	male
+Page Feldman	female		female
+Lamont Ferrell		male	male
+Les Firestein		male	male
+R. Lee Fleming Jr.	male		male
+Terry Curtis Fox		male	male
+Chris Fry	male		male
+Lou Fusaro	male		male
+Deboragh Gabler	female		female
+Tracy Gamble		male	male
+Gail Gilchriest	female		female
+Ra'uf Glasgow		male	male
+Charlie Goldstein	male		male
+Javier Gonzalez		male	male
+Lauren Goodman		female	female
+Will Gould		male	male
+Carol Green	female		female
+Raf Green			0
+H. Daniel Gross	male		male
+Chavo Guerrero Jr.	male		male
+Norm Gunzenhauser	male		male
+Nan Hagan		female	female
+Terry Maloney Haley		male	male
+Bari Halle			0
+Kim Hamberg		female	female
+Treena Hancock	female		female
+Ri-Karlo Handy	male		male
+Mary Hanes		female	female
+Lindsay Harrison		female	female
+Baz Hawkins	male		male
+DeAnn Heline	female		female
+W. Blake Herron	male		male
+Augie Hess		male	male
+Dennys McCoy	male		male
+Mary Grace Higgs		female	female
+A.M. Homes	female		female
+Bing Howenstein		male	male
+Torian Hughes		male	male
+S. Lily Hui	female		female
+Sandy Isaac		male	male
+Leigh Dana Jackson		male	male
+Lindsey Jaffin		female	female
+Lindsay Sturman		female	female
+Rowan Joffe	male		male
+Cary Jones			0
+L. Dean Jones Jr.	male		male
+Sorel Kaire		male	male
+Bonnie Kallman		female	female
+J.H. Wyman	male		male
+Vic Kaplan	male		male
+Artie Kemper		male	male
+Ales Komárek		male	male
+Sandy Kroopf		male	male
+Huen Chiu Ku	male		male
+Vlokkie Gordon	female		female
+Dale Kutzera		male	male
+Kerry Lambert	female		female
+T.L. Lankford		male	male
+Bernie Laramie		male	male
+Kelly Lee	female		female
+Kim LeMasters	male		male
+Jayme Lemons		female	female
+Kerry Lenhart		male	male
+Salamo Levin	male		male
+Chris Levinson	female		female
+Josanne B. Lovick	female		female
+D.J. MacHale	male		male
+Robin Madden		female	female
+Erin Maher		female	female
+T.J. Mancini	male		male
+Artie Mandelberg	male		male
+Damani Mangum	male		male
+Chris Manheim		female	female
+Kelly A. Manners	male		male
+Jae Marchant		male	male
+Grainne Marmion		female	female
+Cherylanne Martin	female		female
+Yutzil Martínez		female	female
+Dylan K. Massin			0
+Jackie May		female	female
+Marsh McCall	male		male
+JoAnne McCool			0
+Leigh McGrath		male	male
+W. Mark McNair	male		male
+Kimberly Mercado		female	female
+Tracy Mercer		female	female
+W.K. Scott Meyer		male	male
+Corey Miller	male		male
+Courtney Miller	male		male
+Terry Miller	male		male
+D. Brent Mote	male		male
+Terry Mulroy		male	male
+Chris Mundy	male		male
+Nancylee Myatt	female		female
+D.J. Nash	male		male
+Kim Newton		female	female
+Rockne S. O'Bannon	male		male
+Michaeley O'Brien		female	female
+Nguyen Orange		female	female
+P.J. Palmer	male		male
+Gail M. Patterson		female	female
+Saladin K. Patterson	male		male
+Sascha Penn		male	male
+Jojo Pennebaker	male		male
+Ritamarie Peruggi	female		female
+J.J. Philbin	female		female
+BJ Porter	male		male
+Hall Powell		male	male
+Kim Powers		female	female
+Ray Quinlan	male		male
+Raly Radouloff			0
+I.C. Rapoport	male		male
+Lynn Raynor		female	female
+Blair Reekie	male		male
+Tracey Rice		female	female
+Hollis Rich		female	female
+Mary Richards		female	female
+Dhana Gilbert		female	female
+Arquímedes Rivero		male	male
+Randy Roberts	male		male
+Dale Roy Robinson	male		male
+Pattee Roedig	female		female
+Tyler Romary			0
+Chris Rudolph		male	male
+Dai Satô		male	male
+Sascha Schneider		male	male
+Carol Scott		female	female
+Kelly Senecal		male	male
+Odin Shafer	male		male
+Libby Sharpe		female	female
+Kim Sherwood		female	female
+Nancey Silvers	female		female
+Rudd Simmons		male	male
+P.K. Simonds	male		male
+T. Smith III		male	male
+Erin Smith		female	female
+N. John Smith	male		male
+Sidra Smith	female		female
+Gene Sperling	male		male
+Rama Laurie Stagner		female	female
+Gardner Stern		male	male
+Erin Stewart Tiedje	female		female
+R.L. Stine	male		male
+P. Kevin Strader	male		male
+Randy Sutter			0
+Ric Swartzlander		male	male
+Robin Sweet		female	female
+Shan Tam	female		female
+Kelly R. Tenney			0
+Mary Rae Thewlis		female	female
+Shawn Thomas	male		male
+Kim Todd	female		female
+Carol Dunn Trussell		female	female
+Kelley Turk		female	female
+Kelly Van Horn		female	female
+J.R. Ventimilia	female		female
+Sib Ventress		male	male
+Chrisann Verges	female		female
+Leslie Waldman		female	female
+Hynndie Wali		female	female
+Bonnie Weis		female	female
+Kelly Wheeler		female	female
+Kim Williams	female		female
+Tyger Williams		male	male
+Jacy Young		female	female
+Kal Cauthen	male		male
+Sam Juneau		male	male
+Carol Tenney		female	female
+Raynelle Swilling		female	female
+Roz Weinman	female		female
+Tracey Mendelsohn	female		female
+Ryan McCormick		male	male
+Cory Tynan		male	male
+Akua Murphy		female	female
+Iesah Hunter			0
+Drewsilla Thorne		female	female
+Dylan Morgan		male	male
+God Ahmad Najam			0
+Meredith Mills-Cavalluzzo		female	female
+Nihit Bhave		male	male
+Jody Paul		female	female
+Terril Johnson			0
+Jib Polhemus	male		male
+Kim Bondi		female	female
+Earlina Gilford		female	female
+Ryan DeGard		male	male
+Mel Cowan	male		male
+Blair Fell		male	male
+Lauren Budd		male	male
+Robyn-Alain Feldman	male		male
+Damione Macedon		male	male
+Courtney Looney		female	female
+Jeny Quine	female		female
+Mary Beth Basile		female	female
+Jiréh Breon Holder		male	male
+Yin Q.	female		female
+Davia Carter		female	female
+O'Shea Read	male		male
+Perri Kipperman		female	female
+Chris LeDoux	male		male
+J.M. Holmes		male	male
+Deshawn Bambu Rivera			0
+Chris Dingess		male	male
+Akilah Lowery		female	female
+Mary Elizabeth Hamilton	female		female
+Dhruv Narang	male		male
+J. Holland Moore	male		male
+Milos Twilight	male		male
+Jenniffer Gómez		female	female
+J. David Shanks	male		male
+Chris Olsen	male		male
+Sandeep Sharma	male		male
+Yutaka Toyama		male	male
+Abhishek Chaudhary	male		male
+Chandra D. Martin			0
+Chris Plourde			0
+Chris Smirnoff		male	male
+Loren Segan		female	female
+Lauren Stein		female	female
+Kim Beyer-Johnson		female	female
+Ray Lancon		male	male
+Vivien Mejia		female	female
+Sheelin Choksey	male		male
+Kris Marvin Hughes			0
+Moacyr Orozco		male	male
+Tiller Russell		male	male
+Sam Forman		male	male
+Ryan Harris		male	male
+Pat Sawyer			0
+Mary-Kelly Weir		female	female
+Damani Johnson		male	male
+Lee Morris		male	male
+Denitria Harris-Lawrence	female		female
+Corey Reed	male		male
+Kyle Long		male	male
+Lauren Schmidt	female		female
+Erin Ehrlich	female		female
+Ford Austin	male		male
+Lindsay Jaeger			0
+Talicia Raggs		female	female
+Jaysen Waller	male		male
+Ryan Lewis		male	male
+Sarada McDermott	female		female
+Nevitt T. Greene		female	female
+Lee Toft			0
+Kelsey Bay			0
+Lamont Magee	male		male
+Dailyn Rodriguez	female		female
+Pixie Wespiser		female	female
+J.R. Orci	male		male
+Mary Leah Sutton	female		female
+Omaira Rivero		female	female
+M. Raven Metzner	male		male
+Marlana Hope	female		female
+Devon Greggory		female	female
+Morgan Fahey		female	female
+Onalee Hunter		female	female
+Dallas Jackson	male		male
+G. Ross Parker	male		male
+Ivett Rivero	female		female
+Will Pascoe	male		male
+Chris Pollack		male	male
+Ryan Parrott	male		male
+Carlito Rodriguez	male		male
+Tracy Bellomo		female	female
+Davah Avena	female		female
+Nakia Dillard	male		male
+Devin Rich			0
+Kyle Harimoto		male	male
+Skander Halim	male		male
+Stacey Cantwell			0
+Stacy McKee		female	female
+Ryan Cunningham	female		female
+Kellie R. Griffin	female		female
+Stacy Kravetz		female	female
+Addison McQuigg	male		male
+Will Staples		male	male
+Tripp Weathers	male		male
+Lauren Wagner			0
+Shukree Tilghman	male		male
+Ryan Wise	male		male
+Val Cheung	female		female
+John-Paul Nickel	male		male
+Chris Carey	male		male
+Aireka Muse		female	female
+Ryan Quan		male	male
+Shannon Goss		female	female
+Hiram Martinez	male		male
+Pablito Tancinco	male		male
+Whit Anderson	female		female
+Ryan Hermosura	male		male
+Sage Scroope		female	female
+Ramses Jimenez	male		male
+Chris Hampel		male	male
+Kyle Peck	male		male
+Erin Mitchell		female	female
+Chris Hepler		male	male
+D.B. Brooks			0
+Taylor Hamra		male	male
+Chris Arrington		male	male
+R.P. Gaborno			0
+Casey Kasprzyk		male	male
+M. Scott Veach	male		male
+Randy Nelson		male	male
+Kim Turrisi		female	female
+Eben Kostbar	male		male
+Jesús de la Vega	male		male
+Chris Lusvardi		male	male
+Arika Lisanne Mittman		female	female
+Tucia Lyman	female		female
+Chris Crowe		male	male
+Soo Hugh		female	female
+Mando Alvarado	male		male
+Ryan Lindenberg			0
+Arrisen Towner		male	male
+Oryan Landa	male		male
+Sam Humphrey	female		female
+Pat Charles	male		male
+Nkechi Okoro	female		female
+Roopesh Parekh		male	male
+Stacey Pulwer		female	female
+Aeysha Carr		female	female
+Courtney Turk		female	female
+D.B. Weiss	male		male
+Ashley Allen	female		female
+Simran Baidwan		female	female
+Meredith Lavender	female		female
+Kaylan Eggert		female	female
+Chris Ord		male	male
+Cory Martin		male	male
+N.D. French	female		female
+Stacey Fields		female	female
+Jade-Addon Hall		male	male
+Lynn Redmond			0
+Messiah Jacobs	male		male
+JaSheika Ashel James		female	female
+Cydney Kelley		female	female
+Sam Sklaver		male	male
+Ryan Shankel		male	male
+Oanh Ly		female	female
+T.J. Brady		male	male
+Chris Pozzebon	male		male
+Hiro Murai	male		male
+Kim Rome		female	female
+Gene Klein	male		male
+Jamie Conway	male		male
+Ashley Lyle		female	female
+Lauren MacKenzie		female	female
+Hunt Baldwin	male		male
+Randy Huggins		male	male
+Hadjii	male		male
+Vali Chandrasekaran	male		male
+Whitney Boole Williams		female	female
+Corey Hart			0
+Phinneas Kiyomura		male	male
+Julieann Galdames	female		female
+Makario Sarsozo	male		male
+Pat Tookey-Dickson	female		female
+Ahmadu Garba	male		male
+Charlie Gogolak	male		male
+Courtney A. Kemp	female		female
+Jamie Pachino	female		female
+Sam Shaw	male		male
+Meredith Scardino		female	female
+Shernold Edwards		female	female
+Chris Leanza		male	male
+Kyle Bradstreet		male	male
+Lindsay Liles	female		female
+P. Ryan Baber		male	male
+Sascha Rothchild	female		female
+Cinque Henderson		female	female
+Jennica Harper	female		female
+Kimberly A. Harrison	female		female
+Ryan Causey	male		male
+Meredith Philpott		female	female
+Skye Dennis		male	male
+Sam Holcroft		female	female
+Zebulun Huling	male		male
+Gorrman Lee	male		male
+Nerissa Williams		female	female
+Lamont Pierre	male		male
+Cisely Saldana		female	female
+Kris Lowe		female	female
+Rinne Groff		female	female
+Kateland Brown		female	female
+Marisha Mukerjee		female	female
+Phononzell Williams		male	male
+Vaun Wilmott		male	male
+Morenike Williams		female	female
+Jamie L. Smith		female	female
+Celine Geiger	female		female
+J.P. Schaefer	male		male
+Cleo Valente	female		female
+Pharah Jean-Philippe		female	female
+Jihan Crowther	female		female
+Leslie Jaye Goff		female	female
+Tesia Joy Walker		female	female
+Lenn K. Rosenfeld			0
+Lee Vaillancourt		male	male
+Lindsay Harbert Silberman	female		female
+Taii K. Austin		female	female
+Robin Gurney	female		female
+Corey Evett		male	male
+Hrag Gaboudian			0
+Lindsey Allen		female	female
+J.W. McHausen			0
+Sandy Travis			0
+Chris Carlisle		male	male
+Hernany Perla			0
+Corey Shurge	male		male
+Tracey Leis			0
+Ashley Glazier		female	female
+Chris Yakaitis		male	male
+Dallas Pope			0
+Javier Mantovani		male	male
+C.W. DeVeaux			0
+D.E. Klerk			0
+Mary Trahan		female	female
+M.D. Clark		female	female
+Brusta Brown		female	female
+Darby Kealey		male	male
+Ryan J. Condal	male		male
+Brynn Malone		male	male
+Deryck Broom	male		male
+Isuna Hasekura		male	male
+Ju Ayakura		male	male
+Gursimran Sandhu	female		female
+Tyler Van Patten		male	male
+Pat Smith	male		male
+Elicia Bessette		female	female
+Chris Clemente	male		male
+Ryan Callahan		male	male
+Dashiell Reinhardt		male	male
+Shepard Boucher		male	male
+Garbrielle McGinty		female	female
+Aubrey Villalobos		female	female
+Marty Scott	male		male
+T.W. Smith		male	male
+Tracy Chitupatham		female	female
+Durand St. Hilaire		male	male
+Ashley Wigfield	female		female
+Lee A. Carlisle		male	male
+Torrey Speer		female	female
+Sam Vincent		male	male
+Rashard Mendenhall	male		male
+Ryan Mottesheard		male	male
+Molyneaux Mathews			0
+Galen Fletcher		male	male
+Ryan Copple		male	male
+Sang Kyu Kim		male	male
+Shawn Simmons		male	male
+Lauren LeFranc	female		female
+Apryl Huntzinger		female	female
+Jameal Turner		male	male
+Jazmen Darnell Brown	male		male
+Casey Fisher		male	male
+Matthew-Lee Erlbach	male		male
+Jejuan Guillory	male		male
+Jaydi Samuels		female	female
+Hartley Voss			0
+Merrick McCartha	male		male
+Shawn Harwell		male	male
+Bridger Winegar		male	male
+Tracy Johnson			0
+Talin Hallajian			0
+Jerica Lieberman		female	female
+Anne-Lise Jacobsen	female		female
+Whit Friese		male	male
+Lindsey Villarreal	female		female
+Judalina Neira	female		female
+TJ Johnson	female		female
+J. Peyton Worley			0
+Amy-Jo Perry	female		female
+Ryan Finnerty		male	male
+Pat Jacobs			0
+Taylor Streitz		female	female
+Roweena Mackay	female		female
+Erin Broadhurst	female		female
+T.D. Mitchell		female	female
+Ryan Johnson		male	male
+Resheida Brady		female	female
+Donny Sheldon	male		male
+Jamie Chan		female	female
+Kyle Dill		male	male
+Mo Masi		female	female
+Marquitta Baines		female	female
+Melora Rivera	female		female
+Taylor Rose			0
+Pat Bates		female	female
+Will Ewing		male	male
+Jenique Keyatta Holder-Mincey		female	female
+Corey Moore		male	male
+Meredith Glynn		female	female
+Raamla Mohamed		female	female
+Ariella Blejer		female	female
+Vanzil Burke		male	male
+Ning Zhou		female	female
+Allyce Ozarski		female	female
+Aj Panganiban			0
+Lynn Renee Maxcy		female	female
+Cory Hunter		male	male
+Gennefer Gross	female		female
+Erin Gunn		female	female
+Robin Wasserman		female	female
+RayMartell Moore	male		male
+Y. Shireen Razack		female	female
+AJ Marechal		female	female
+Tyler Topits		male	male
+Will Areu		male	male
+Sejin Park	male		male
+Ticona S. Joy		female	female
+Kelsey Jackson		female	female
+Erinne Dobson	female		female
+Jamie Thalman		male	male
+Taofik Kolade		male	male
+Deniese Davis	female		female
+Courtney Parker		female	female
+Logan Cross	male		male
+Van King	male		male
+Ryan Walls	male		male
+Eréndira de la Lama		female	female
+Ryan LaMarca		male	male
+Camille Murray		female	female
+Shalisha Francis		female	female
+Casallina Cathy Kisakye		female	female
+Skyler Barrett	female		female
+Lauren Gurganous		female	female
+Lindsey Van Wyk		female	female
+Lauren Stone Jackson		female	female
+Lauren Otero		female	female
+Zac Hug	male		male
+Carson Moore		male	male
+J Luke Watson		male	male
+Iden Baghdadchi		male	male
+D. Aaron Hunter		male	male
+Will Tracy		male	male
+Tye Green		female	female
+VJ Boyd	male		male
+Sydney Mitchel		female	female
+Lijah Barasz		female	female
+Lauriel Harte Marger	female		female
+Sidnei Beal III		male	male
+Yalun Tu		male	male
+Ruwan Jayatilleke		male	male
+Ryan Scott		male	male
+Gallatin Warfield		male	male
+Kerry Kazmierowicztrimm		male	male
+T.J. McIntyre	male		male
+Kelly Fullerton		female	female
+Logan Slakter		male	male
+D.J. Ryan		male	male
+Charlie Reeves		male	male
+Mo Lee			0
+Lauren Moon		female	female
+Kelly Galuska		female	female
+Sydney Fleischmann	female		female
+A.K. Moore	male		male
+True Hinds		female	female
+Lee Patterson		male	male
+Desta Tedros Reff		male	male
+Carson Bloomquist	male		male
+Caralene Robinson	female		female
+Jo Rochelle	female		female
+Davita Scarlett		female	female
+Libby Ward	female		female
+Aristotle Kousakis		male	male
+Emmylou Diaz		female	female
+Sasha Garron		female	female
+Kelly Jean Fitzsimmons		female	female
+Timathe Author	male		male
+Lynn Sternberger		female	female
+Stillman Brown		male	male
+De'Sean Lynette Roby		female	female
+Shevon Singh		female	female
+Ryan Parks			0
+Lauren Eather	female		female
+Harrold Gene Franques	male		male
+Ryan McGarry		male	male
+Sasha Stroman		female	female
+Tanase Popa	male		male
+Lauren Barnett	female		female
+Nialla LeBouef		female	female
+Kendall Sherwood		female	female
+Jaquen Castellanos		female	female
+Kim Shumway		female	female
+Morenike Balogun	female		female
+Lauren De Normandie		female	female
+Libby Friz	female		female
+Nach Dudsdeemaytha		male	male
+Kimberly Ndombe		female	female
+Varun Verma		male	male
+J. William Finn		male	male
+Thelonius Alexander	male		male
+Blake Crouch	male		male
+Thembi Banks	female		female
+Cameron Porsandeh	male		male
+J.C. Nolan			0
+Mical Milus		female	female
+Felischa Marye	female		female
+Karlixle Marcusé		male	male
+Rich Cohen	male		male
+Leslie Cimino	female		female
+Lindsay Firestone		female	female
+Janeika James		female	female
+Tracey Scott Wilson		male	male
+Asian American Film Lab			0
+Shawn Vanden	male		male
+Cameron Johnson	male		male
+Jamie Rosengard		female	female
+Qui Nguyen	male		male
+Kendall Huff		female	female
+Blake Behnam		male	male
+Taylor Martin		female	female
+Charlie Aaron			0
+S.J. Hodges	female		female
+Kim Cella		female	female
+R.E. Vogt			0
+Goosik			0
+Shiree Hayden			0
+Kendall Sand		female	female
+Mj Kaufman		queer/trans	queer/trans
+Jatin Chhugani		male	male
+Niceole R. Levy		female	female
+Ashley Cardiff		female	female
+Sadé Clacken Joseph		female	female
+Ashley Zalta		female	female
+Wolfe Coleman		male	male
+Cat Jones		female	female
+Ginna Hoben		female	female
+Sam Seifnourian		male	male
+Bobak Esfarjani		male	male
+Cshediiz Coleman		female	female
+Minhal Baig	female		female
+Wineska Cintron		female	female
+Njeri Brown		female	female
+Rochée Jeffrey	female		female
+Kukhatusha Croom			0
+Courtney Baron		female	female
+Rodes Fishburne		male	male
+Ashley Sims		female	female
+Picasso Mendez		male	male
+Fam Udeorji		male	male
+Lee Hubbard			0
+S. Janjay Knowlden		male	male
+Mary Salmonsen		female	female
+Earlina D. Gilford	female		female
+Sharr White		male	male
+Stacey Carpenter		female	female
+Peppe Fiore		male	male
+D.S. Schaefer	male		male
+Stacey Gray		female	female
+Shannon Houston		female	female
+Kaven Brown		male	male
+Kar Logan		male	male
+Franceska Gardner		female	female
+Will Fisher		male	male
+Dale Jackson			0
+Hee-suk Sung			0
+Kerry Crowley		female	female
+T.S. Grant			0
+Cj Faison	male		male
+Allie Hagan		female	female
+Jenina Kibuka		female	female
+Hiram Watkins	male		male
+Amee Dolleman		female	female
+Brook Sitgraves Turner	female		female
+Jahbrielle Henning		female	female
+Captainiscool		male	male
+Randy McKinnon		male	male
+Jinny Howe		female	female
+A.C. Allen		female	female
+Allie Solomon		female	female
+J. Raleigh Palmer			0
+Cameron Dupuy		male	male
+Ryan F. Osborne		male	male
+Wednesday Thomas			0
+Alysoun Wolfe	female		female
+Sasha Sales			0
+Corey Chapman		male	male
+Ibra Ake		male	male
+Katiana Duplessis		female	female
+Madison Leibman		female	female
+Nadria Tucker		female	female
+Toschia Wade		female	female
+Corinn James		female	female
+Darcell Lawrence			0
+Kelsey O'Regan		non-binary	non-binary
+Rohit Kumar		male	male
+Konshik Yu			0
+Min Soo Kee			0
+Chris Dickie		male	male
+J.F. Halpin	male		male
+MW Cartozian Wilson		male	male
+JayNemar Smith		male	male
+Ashley Chang		female	female
+Dondre Taylor-Stewart		male	male
+Kelsey Jackson		female	female
+Kendall Rogers		female	female
+Ryan Enright		male	male
+Biz LaChance	male		male
+Sam Jarvis	female		female
+Aniz Adam Ansari		male	male
+Justice Schiappa		non-binary	non-binary

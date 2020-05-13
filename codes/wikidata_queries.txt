@@ -1,0 +1,59 @@
+### https://query.wikidata.org/sparql
+
+
+### 1) Query for screenwriters
+
+SELECT ?item ?itemLabel 
+WHERE 
+{
+  {?item wdt:P106 wd:Q28389}    # screenwriter
+  UNION
+  {?item wdt:P106 wd:Q73306227} # television writer
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+
+### 2) Query for producers
+
+SELECT ?item ?itemLabel 
+WHERE 
+{
+  {?item wdt:P106 wd:Q3282637}  # film producer
+  UNION
+  {?item wdt:P106 wd:Q578109}   # television producer
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+
+### 3) Query for directors
+
+SELECT ?item ?itemLabel 
+WHERE 
+{
+  {?item wdt:P106 wd:Q2059704} # television director
+    UNION
+  {?item wdt:P106 wd:Q3455803} # director
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+
+### 4) Query for US-American Actors
+
+SELECT ?item ?itemLabel 
+WHERE 
+{
+  ?item wdt:P106 wd:Q33999 . # actor
+  ?item wdt:P27 wd:Q30       # American
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+
+### 5) Query for UK Actors
+
+SELECT ?item ?itemLabel 
+WHERE 
+{
+  ?item wdt:P106 wd:Q33999 . # actor
+  ?item wdt:P27 wd:Q145       # UK
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
